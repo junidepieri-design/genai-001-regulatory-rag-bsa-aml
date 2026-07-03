@@ -19,7 +19,7 @@ Compliance teams spend significant time manually searching BSA/AML documentation
 bsa-aml-rag/
 ├── README.md
 ├── requirements.txt
-├── .env.example
+├── .env
 ├── config.py
 ├── src/
 │   ├── __init__.py
@@ -183,5 +183,3 @@ No proprietary data is required to run the project.
 ## Author
 
 Built by [Odemir Depieri Jr](https://www.linkedin.com/in/odemir-depieri-jr/) — Data and AI specialist focused on production systems for financial institutions.
-
-Part of the [AI for Fintech](https://github.com/ai-for-fintech) applied research hub.
