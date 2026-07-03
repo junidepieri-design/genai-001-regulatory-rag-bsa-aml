@@ -41,7 +41,7 @@ bsa-aml-rag/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/odemir-depieri-jr/bsa-aml-rag
+git clone https://github.com/junidepieri-design/genai-001-regulatory-rag-bsa-aml.git
 cd bsa-aml-rag
 ```
 
