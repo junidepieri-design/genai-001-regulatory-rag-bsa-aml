@@ -5,6 +5,9 @@ A production-grade retrieval-augmented generation system for querying BSA/AML re
 
 Built on LangChain, ChromaDB, and Google Gemini. Designed to run locally and extend to any stack via a single configuration file.
 
+![Architecture BSA_AML Regulatory RAG](/Architecture BSA_AML Regulatory RAG.png)
+
+
 ---
 
 ## What This Solves
